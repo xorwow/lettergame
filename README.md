@@ -53,7 +53,7 @@ pipx install lettergame
 # Clone this repository
 git clone https://github.com/xorwow/lettergame
 # Link to the game file from your BIN
-ln -s lettergame/game.py ~/.local/bin/lettergame
+ln -s lettergame/src/lettergame/game.py ~/.local/bin/lettergame
 ```
 
 ## Usage
