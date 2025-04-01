@@ -16,9 +16,9 @@ An example:
 
 ```text
 The computer secretly chooses the word 'EARTH'.
-You guess 'GIRTH' -- 3 letters are correct (R, T, H).
+You guess 'WORTH' -- 3 letters are correct (R, T, H).
 You guess 'BIRTH' -- 3 letters are correct (R, T, H).
-It is now probable that GI and BI are both incorrect (but not definite!).
+It is now probable that WO and BI are both incorrect (but not definite!).
 To be sure, you guess 'BINGO' -- 0 letters are correct, so you know it must be R, T, and H.
 You guess 'HEART' -- 5 letters are correct, but the order is not.
 You guess 'EARTH' -- you win.
